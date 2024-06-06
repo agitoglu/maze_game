@@ -1,5 +1,7 @@
  maze_game
+##İletişim Bilgisi oagitoglu@gmail.com
 
+##Oyun Dosyaları https://drive.google.com/file/d/1p4JWpdA3V6SmWUx-uno2rtGHiMefRMKt/view?usp=drive_link
 
 ## Oyun Tanıtımı
 Oyunun amacı, oyuncunun dikkat, hafıza ve hesaplama yeteneklerini ölçmektir. Bu yetenekler, oyunun çeşitli aşamalarında oyuncunun karşılaştığı bulmacalar ve zorluklar aracılığıyla test edilir.
