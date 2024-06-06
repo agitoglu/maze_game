@@ -1,4 +1,4 @@
-![2](https://github.com/agitoglu/maze_game/assets/132545117/5f80011e-62ba-4202-9f3a-f356e0c44f5a)![2](https://github.com/agitoglu/maze_game/assets/132545117/7ba38dd8-8bae-426d-ba58-3012679428b8)# maze_game
+ maze_game
 
 
 ## Oyun Tanıtımı
@@ -43,14 +43,8 @@ Oyuncunun, sembollerin ve çıkış kapısının nerede olduğunu gösteren ufak
 ![2](https://github.com/agitoglu/maze_game/assets/132545117/7182c24d-59f2-49e5-b61e-9a5956cd4866)
 ![3](https://github.com/agitoglu/maze_game/assets/132545117/25b4f793-eda3-4427-aa25-284b9ad749b7)
 ![4](https://github.com/agitoglu/maze_game/assets/132545117/b2f516ef-585a-43af-914c-3e46b8b841aa)
-![4](https://github.com/agitoglu/maze_game/assets/132545117/12312e23-2a5a-4d14-ad7e-a2ffe0981899)
 ![5](https://github.com/agitoglu/maze_game/assets/132545117/6a4058e8-b48e-4c2a-85f6-22f9135cdb37)
 ![6](https://github.com/agitoglu/maze_game/assets/132545117/394c9eca-14c1-4cb5-a371-b1de84da68e5)
 ![7](https://github.com/agitoglu/maze_game/assets/132545117/6789679e-3dd3-4c5e-8c0c-242aae7330b3)
 ![8](https://github.com/agitoglu/maze_game/assets/132545117/b6cf9fbb-95ad-4abc-b6ec-2d5c96e5ab44)
 ![9](https://github.com/agitoglu/maze_game/assets/132545117/5ddfc0b1-26c9-4866-a12f-c8e4be3587f7)
-![8](https://github.com/agitoglu/maze_game/assets/132545117/4d2ef052-7a9b-47c0-b3fc-23f6576cb4eb)
-![7](https://github.com/agitoglu/maze_game/assets/132545117/97441da4-85d3-4ade-8f2f-57eca03f6fa0)
-![6](https://github.com/agitoglu/maze_game/assets/132545117/1b3da9dd-8f56-46cc-b189-ba48767864ba)
-![5](https://github.com/agitoglu/maze_game/assets/132545117/0fe88820-2245-4204-999c-1c4a4116766a)
-![9](https://github.com/agitoglu/maze_game/assets/132545117/d3130cfb-e24e-489b-ad7f-0d37fd111596)
