@@ -50,5 +50,6 @@ Oyuncunun, sembollerin ve çıkış kapısının nerede olduğunu gösteren ufak
 ![5](https://github.com/agitoglu/maze_game/assets/132545117/6a4058e8-b48e-4c2a-85f6-22f9135cdb37)
 ![6](https://github.com/agitoglu/maze_game/assets/132545117/394c9eca-14c1-4cb5-a371-b1de84da68e5)
 ![7](https://github.com/agitoglu/maze_game/assets/132545117/6789679e-3dd3-4c5e-8c0c-242aae7330b3)
-![8](https://github.com/agitoglu/maze_game/assets/132545117/b6cf9fbb-95ad-4abc-b6ec-2d5c96e5ab44)
 ![9](https://github.com/agitoglu/maze_game/assets/132545117/5ddfc0b1-26c9-4866-a12f-c8e4be3587f7)
+![8](https://github.com/agitoglu/maze_game/assets/132545117/b6cf9fbb-95ad-4abc-b6ec-2d5c96e5ab44)
+
